@@ -1,0 +1,22 @@
+.container{
+    align-content: center;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.row{
+    text-align: center;
+}
+body{
+    background: white;
+}
+header{
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Maincontent{
+    font-weight:bolder;
+    color:black;
+    
+}
